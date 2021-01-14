@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm GYSHIE</h1>
 <h3>A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **C, Java, Python, Angular, CodeIgniter, MySQL, MongoDB**
 
 - 📫 How to reach me **gayasha.me**
