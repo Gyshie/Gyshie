@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C, Java, Python, Angular, CodeIgniter, MySQL, MongoDB**
 
-- 📫 How to reach me <a href="mailto:gayashamallu@gmail.com"> gayashamallu@gmail.com </a>
+- 📫 How to reach me <a href="gayasha.me"> gayasha.me </a>
 
 - ⚡ Fun fact **One man’s crappy software is another man’s full time job 😉**
 
