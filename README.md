@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyshie&show_icons=true&locale=en&layout=compact" alt="gyshie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyshie&show_icons=true&locale=en" alt="gyshie" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /></p>
 
 ![](https://komarev.com/ghpvc/?username=Gyshie)
