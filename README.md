@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm GYSHIE</h1>
+<h1>Hi 👋👩🏽‍💻, I'm GYSHIE</h1>
 <h3>A passionate Web Developer</h3>
 
 - 💬 Ask me about **C, Java, Python, Angular, CodeIgniter, MySQL, MongoDB**
