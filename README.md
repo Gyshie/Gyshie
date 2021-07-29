@@ -1,4 +1,4 @@
-<h1>Hi, I'm GYSHIE👋🏽👩🏽‍💻</h1>
+<h1>Hi, I'm GYSHIE 👋🏽👩🏽‍💻</h1>
 <h3>A passionate Web Developer</h3> 
 <p><img align="left" src="https://i.ibb.co/nB9S4v1/my-Octocat.png" alt="gyshieOctocat" border="0" width="220" height="200" /></p>
 
