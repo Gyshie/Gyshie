@@ -1,6 +1,6 @@
 <h1>Hi 👋🏽👩🏽‍💻, I'm GYSHIE</h1>
 <h3>A passionate Web Developer</h3> 
-<p><img align="left" src="https://i.ibb.co/nB9S4v1/my-Octocat.png" alt="gyshieOctocat" border="0" width="200" height="250" /></p>
+<p><img align="left" src="https://i.ibb.co/nB9S4v1/my-Octocat.png" alt="gyshieOctocat" border="0" width="200" height="200" /></p>
 
 - 💬 Ask me about **C, Java, Python, Angular, CodeIgniter, MySQL, MongoDB**
 
