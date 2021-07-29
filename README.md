@@ -6,7 +6,7 @@
 
 - 📫 How to reach me <a href="https://gayashamallu.wordpress.com"> gayasha.me </a>
 
-- ⚡ Fun fact **One man’s crappy software is another man’s full time job 😉**
+- ⚡ Fun fact ~ **One man’s crappy software is another man’s full time job 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyshie&show_icons=true&locale=en&layout=compact" alt="gyshie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /></p>
 
 ![](https://komarev.com/ghpvc/?username=Gyshie)
