@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /></p>
 
+<p><img align="right" src="https://ibb.co/pQcpN8K" alt="gyshieOctocat" /></p>
+
 ![](https://komarev.com/ghpvc/?username=Gyshie)
