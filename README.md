@@ -14,6 +14,7 @@
 <a href="https://www.hackerrank.com/gayashamallu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gayashamallu" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Gayasha-Malluwawadu-2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Gayasha-Malluwawadu-2" height="30" width="40" /></a>
 <a href="https://dribbble.com/Gyshie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Gyshie" height="30" width="40" /></a>
+<a href="buymeacoffee.com/gyshie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Gyshie" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
