@@ -1,4 +1,4 @@
-<h1>Hi, I'm GYSHIE 👋🏽👩🏽‍💻</h1>
+<h1>Hi, I'm GYSHIE 👋🏽👩🏽‍💻</h1>  
 <h3>Passionate Web Developer ❤ FOSS </h3> 
 <p><img align="left" src="myOctocat.PNG" alt="gyshieOctocat" border="0" width="220" height="200" /></p>
 
@@ -20,5 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyshie&show_icons=true&locale=en&layout=compact" alt="gyshie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /></p>
+
+[![@gyshie's Holopin board](https://holopin.io/api/user/board?user=gyshie)](https://holopin.io/@gyshie)
 
 ![](https://komarev.com/ghpvc/?username=Gyshie)
