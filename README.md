@@ -21,6 +21,6 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyshie&show_icons=true&locale=en&layout=compact" alt="gyshie" /> <img align="center" width="416" src="https://github-readme-streak-stats.herokuapp.com/?user=gyshie&" alt="gyshie" /> </p>
 
-<p> <img align="center" width="700" height="220" src="https://holopin.io/api/user/board?user=gyshie" alt="gyshie"/></p>
+<p> <img align="center" width="740" height="220" src="https://holopin.io/api/user/board?user=gyshie" alt="gyshie"/></p>
 
  ![](https://komarev.com/ghpvc/?username=Gyshie)
