@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C, Java, Python, Angular, CodeIgniter, MySQL, MongoDB**
 
-- 📫 How to reach me <a href="https://gayashamallu.wordpress.com"> gayasha.me </a>
+- 📫 How to reach me <a href="https://gayashamallu.wordpress.com"> gayasha.live </a>
 
 - ⚡ Fun fact ~ **One man’s crappy software is another man’s full time job 😉**
 
